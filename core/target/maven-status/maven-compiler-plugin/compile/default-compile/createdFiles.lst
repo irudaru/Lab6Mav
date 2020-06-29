@@ -1,0 +1,16 @@
+command\ExecuteScript.class
+command\RemoveById.class
+dopFiles\Location.class
+dopFiles\AbstractReader.class
+command\Command.class
+dopFiles\Checker.class
+exceptions\EndOfFileException.class
+dopFiles\Route.class
+command\CommandWithObj.class
+exceptions\FailedCheckException.class
+command\Commands.class
+dopFiles\Coordinates.class
+dopFiles\Writer.class
+module-info.class
+dopFiles\BoolString.class
+exceptions\IncorrectFileNameException.class

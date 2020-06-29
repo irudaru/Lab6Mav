@@ -1,0 +1,15 @@
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\module-info.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\Writer.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\command\Commands.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\exceptions\EndOfFileException.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\command\RemoveById.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\Location.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\Checker.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\AbstractReader.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\command\CommandWithObj.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\Route.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\exceptions\FailedCheckException.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\exceptions\IncorrectFileNameException.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\command\ExecuteScript.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\command\Command.java
+C:\Users\Egor\Desktop\Lab6Maven\core\src\main\java\dopFiles\Coordinates.java
